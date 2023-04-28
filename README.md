@@ -35,5 +35,5 @@ The f1-score is a measure that combines precision and recall into one value. It 
 The overall accuracy of the model is 0.95, which means that 95% of all predictions are correct.
 
 
-## Referencias
+## References
 [1] mishra, sandhya; Soni, Devpriya (2022), *“SMS PHISHING DATASET FOR MACHINE LEARNING AND PATTERN RECOGNITION”*, Mendeley Data, V1, doi: 10.17632/f45bkkt8pr.1
